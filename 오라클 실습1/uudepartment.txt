@@ -1,0 +1,9 @@
+SQL> SELECT * FROM UUDEPARTMENT;
+
+DNAME                DID      
+-------------------- ----------
+Finance              FINAN     
+Management           MGT       
+Information Systems  IS        
+
+SQL> SPOOL OFF

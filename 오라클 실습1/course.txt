@@ -1,0 +1,10 @@
+SQL> SELECT * FROM course;
+
+CNAME                                              CNUM     CREDIT DEPARTMENT                   
+-------------------------------------------------- ---- ---------- ------------------------------
+Corporate finance                                  4010          2 Finance                       
+Principles of Management                           6200          3 Management                    
+Consumer Behavior                                  7100          3 Marketing                     
+Database Theory and Design                         6420          3 Information Systems           
+
+SQL> SPOOL OFF

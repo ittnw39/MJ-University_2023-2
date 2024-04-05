@@ -1,0 +1,10 @@
+SQL> SELECT * FROM employee;
+
+FNAME           MINIT LNAME           SSN       BDATE    ADDRESS                        G     SALARY SUPERSSN  DE
+--------------- ----- --------------- --------- -------- ------------------------------ - ---------- --------- --
+Doug            E     Gilbert         123456780 70/06/09 300 south 200 west             M      81200           1 
+Amy             C     Elyot           123456789 73/03/26 100 Main St.                   F      80000           1 
+Richard               Smith           987654321                                                      123456789 1 
+George                Haman           123456783                                                                2 
+
+SQL> SPOOL OFF

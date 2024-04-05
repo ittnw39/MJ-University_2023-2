@@ -1,0 +1,10 @@
+SQL> SELECT * FROM instructor;
+
+INAME                          IUID DID      
+------------------------------ ---- ----------
+Somor                          9002 IS        
+Nyold                          9003 MGT       
+Lammol                         9004 MKTG      
+Bonal                          9001 FINAN     
+
+SQL> SPOOL OFF

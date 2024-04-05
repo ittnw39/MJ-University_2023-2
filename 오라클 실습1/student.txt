@@ -1,0 +1,10 @@
+SQL> SELECT * FROM STUDENT;
+
+SNAME                          SUID STUATUS                        MAJOR                        
+------------------------------ ---- ------------------------------ ------------------------------
+John                           1000 Undergraduate                  Finance                       
+Mary                           2000 Graduate                       Management                    
+David                          3000 Undergraduate                  Information Systems           
+Emmy                           4000 Graduate                       Marketing                     
+
+SQL> SPOOL OFF

@@ -1,0 +1,11 @@
+SQL> SELECT * FROM department;
+
+DNAME           DE MGRSSN    MGRSDATE
+--------------- -- --------- --------
+RD              1  123456789         
+Marketing       3                    
+Human
+Resource   4                    
+Finance         2  123456783 26/03/05
+
+SQL> SPOOL OFF
