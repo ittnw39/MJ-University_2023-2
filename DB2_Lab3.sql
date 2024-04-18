@@ -1,0 +1,1 @@
+select order_id, sum(product_price*quantity) from orderline natural join product group by order_id;
